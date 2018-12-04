@@ -12,7 +12,7 @@ This repository contains collabrative list of examples for using [Syncfusion Xam
 
 ### MVVM Support
 
-The [Syncfusion Xamarin.Forms PDF Viewer control](https://www.syncfusion.com/xamarin-ui-controls/pdf-viewer?utm_medium=listing&utm_source=github_syncfusionexample&utm_campaign=xamarin-pdfviewer-github_syncfusionexample) is designed to support the MVVM (Model View ViewModel) pattern. All the operations of the PDF Viewer can be performed using Commands and all the property values are exposed as Dependency properties.
+The Syncfusion Xamarin.Forms PDF Viewer control is designed to support the MVVM (Model View ViewModel) pattern. All the operations of the PDF Viewer can be performed using Commands and all the property values are exposed as Dependency properties.
 
 ### Review or Annotate PDF files
 
