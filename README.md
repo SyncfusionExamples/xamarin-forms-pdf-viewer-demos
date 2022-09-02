@@ -2,9 +2,9 @@
 
 This repository contains the list of examples using Syncfusion [Xamarin.Forms PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/xamarin-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) in various use cases.
 
-<b>HelloWorld</b> - This is an example for using Xamarin.Forms PDF Viewer to display a PDF file. This example loads an embedded PDF document as stream into the PDF Viewer.
-<b>CustomToolbar</b> - This is an example for using Xamarin.Forms PDF Viewer to display a PDF file and perform all the operations with a customized toolbar. 
-<b>FillAndSign</b> - This is an example for using Xamarin.Forms PDF Viewer to Fill and Sign PDF files with Acroform. That is, you can fill details in the form fields and include hand written signature in the signature field.
+* <b>HelloWorld</b> - This is an example for using Xamarin.Forms PDF Viewer to display a PDF file. This example loads an embedded PDF document as stream into the PDF Viewer.
+* <b>CustomToolbar</b> - This is an example for using Xamarin.Forms PDF Viewer to display a PDF file and perform all the operations with a customized toolbar. 
+* <b>FillAndSign</b> - This is an example for using Xamarin.Forms PDF Viewer to Fill and Sign PDF files with Acroform. That is, you can fill details in the form fields and include hand written signature in the signature field.
 
 ## Key Features
 
