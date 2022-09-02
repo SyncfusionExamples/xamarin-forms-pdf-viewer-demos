@@ -1,59 +1,36 @@
-# Syncfusion Xamarin.Forms PDF Viewer
+# Xamarin.Forms PDF Viewer Examples
 
-This repository contains collabrative list of examples for using Syncfusion [Xamarin.Forms PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/xamarin-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) in Xamarin.Forms application in various use cases.
+This repository contains the list of examples using Syncfusion [Xamarin.Forms PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/xamarin-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) in various use cases.
 
-## Features and Benefits
+<b>HelloWorld</b> - This is an example for using Xamarin.Forms PDF Viewer to display a PDF file. This example loads an embedded PDF document as stream into the PDF Viewer.
+<b>CustomToolbar</b> - This is an example for using Xamarin.Forms PDF Viewer to display a PDF file and perform all the operations with a customized toolbar. 
+<b>FillAndSign</b> - This is an example for using Xamarin.Forms PDF Viewer to Fill and Sign PDF files with Acroform. That is, you can fill details in the form fields and include hand written signature in the signature field.
 
-### High-performance PDF Viewer
+## Key Features
 
-* <b>Instant loading</b> - Load PDF files with thousands of pages instantly.
-* <b>Less runtime memory</b> - On-demand loading and virtualization hold only the minimum required pages at runtime to reduce memory consumption.
-* <b>Virtualized pages</b> - Render pages on demand to help reduce initial load time when working with large documents.
+Our Xamarin.Forms PDF Viewer has numerous features and the following list shows the key features available.
 
-### MVVM Support
-
-The Syncfusion Xamarin.Forms PDF Viewer control is designed to support the MVVM (Model View ViewModel) pattern. All the operations of the PDF Viewer can be performed using Commands and all the property values are exposed as Dependency properties.
-
-### Review or Annotate PDF files
-
-Review PDF files using a rich set of annotating tools in the PDF Viewer.
-
-* <b>Highlight text</b> - Highlight important text in PDF files. You can customize the color of the highlight or remove the highlight.
-* <b>Underline text</b> - Underline notable text in PDF files. You can customize the color of the underline or remove the underline.
-* <b>Strikethrough</b> - Strikethrough unimportant text in PDF files. You can customize the color of the strikethrough or remove the strikethrough.
-* <b>Freehand draw (ink annotation)</b> - Draw freehand on the pages of PDF files. You can customize the color of the freehand drawing or remove the freehand drawing.
-* <b>Line</b> - Include lines in PDF files. You can move, resize, remove, or edit the color of the line.
-* <b>Rectangle</b> - Include rectangles in PDF files. You can move, resize, remove, or edit the color of the rectangle.
-* <b>Ellipse</b> - Include ellipses and circles in PDF files. You can move, resize, remove, or edit the color of the ellipse.
-
-### Built-in toolbar
-
-The Xamarin.Forms PDF Viewer control comes with a powerful built-in toolbar to execute most important actions such as page navigation, text search, and various annotation tools. You can design your own toolbar with PDF Viewer APIs.
-
-### Navigation
-
-The PDF Viewer supports different internal and external navigations.
-
-* <b>Bookmark navigation</b> - Bookmarks saved in PDF files are loaded and made ready for easy navigation. This feature helps in navigation within the PDF file of the topics bookmarked already.
-* <b>Hyperlink navigation</b> - Hyperlink navigation feature enables navigation to URLs (website links) in a PDF file.
-* <b>Table of contents navigation</b> - Table of contents navigation allows users to navigate to different parts of a PDF file that are listed in the table of contents section.
-
-### Select and copy text
-
-Select and copy text from PDF files. 
-
-### Search text
-
-Locate text easily in a PDF file.
-
-### Customization
-
-Create a custom toolbar with all the options in the built-in toolbar.
-
-### Localization
-
-All static text within the PDF Viewer can be localized to any supported language.
-
+* <b>View encrypted documents</b> - View the encrypted or password-protected documents easily.
+* <b>Page-by-page view mode</b> - View the PDF documents page-by-page with horizontal navigation.
+* <b>Built-in toolbar</b> - The PDF Viewer control comes with a powerful, built-in toolbar to execute the most important actions, such as page navigation, text search, and various annotation actions. The visibility of the toolbar items is also customizable.
+* <b>Custom toolbar</b> - The built-in toolbar can be disabled, and you can easily create your own custom toolbar.
+* <b>Scroll and pan</b> - Scroll and pan through the loaded PDF pages seamlessly.
+* <b>Magnification</b> - Zoom in and out the content of a document efficiently.
+* <b>Text selection</b> - Select the text presented in a PDF document.
+* <b>Text search</b> - Search for text and instantly navigate all its occurrences in a PDF document.
+* <b>Page navigation</b> - Navigate to the pages instantly.
+* <b>Bookmark navigation</b> - Bookmarks saved in a document are loaded and make easy navigation. This feature helps navigate between the topics bookmarked already within a PDF document.
+* <b>Document link navigation</b> - Navigate to the topic or position by tapping the document link annotation of the topics in the table of contents in a PDF document.
+* <b>Hyperlink navigation</b> - Detects hyperlinks, and tapping on the hyperlink will open the URL in a browser.
+* <b>Annotations</b> - Review and annotate a PDF document using the various annotations, such as highlight, underline, strikethrough, squiggly, line, arrow, rectangle, circle, polygon, cloud, polyline, ink, and free text.
+* <b>Custom views</b> - Add any form of Xamarin.Forms View like Button, Entry, Label, Image, and more anywhere in the pages as custom views.
+* <b>Handwritten signature</b> - Sign the documents quickly by adding your handwritten signature.
+* <b>Form filling</b> - Add and modify the existing forms fields content in a PDF document.
+* <b>Importing and exporting data</b> - Import and export data like form fields and annotations in a PDF document.
+* <b>Save and Print</b> - Save and print the modified PDF documents easily.
+* <b>Themes</b> - Easily switch between light and dark themes.
+* <b>Localization</b> - All static text within the PDF Viewer can be localized to any supported language.
+* <b>Accessibility</b> - Screen reading and navigation assistance can be done easily.
 
 ## Related links
 [Learn More about Blazor PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/xamarin-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) <br/><br/>
