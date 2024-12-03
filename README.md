@@ -1,6 +1,6 @@
 # Xamarin Forms PDF Viewer Examples
 
-This repository contains the list of examples using Syncfusion [Xamarin Forms PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/xamarin-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) in various use cases.
+This repository contains the list of examples using Syncfusion&reg; [Xamarin Forms PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/xamarin-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) in various use cases.
 
 * <b>HelloWorld</b> - This is an example for using Xamarin Forms PDF Viewer to display a PDF file. This example loads an embedded PDF document as stream into the PDF Viewer.
 * <b>CustomToolbar</b> - This is an example for using Xamarin Forms PDF Viewer to display a PDF file and perform all the operations with a customized toolbar. 
@@ -41,12 +41,12 @@ Our Xamarin.Forms PDF Viewer has numerous features and the following list shows 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components/pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) <br/><br/>
 [Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples)
 
-## About Syncfusion Xamarin UI Controls
+## About Syncfusion&reg; Xamarin UI Controls
 Syncfusion's [Xamarin.Forms](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples) library offers over 155 UI controls to create cross-platform native mobile apps for iOS, Android, UWP and macOS platforms from a single C# code base. In addition to PDF Viewer, we provide popular Xamarin controls such as [DataGrid](https://www.syncfusion.com/xamarin-ui-controls/xamarin-datagrid?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples), [Charts](https://www.syncfusion.com/xamarin-ui-controls/xamarin-charts?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples),
 [Scheduler](https://www.syncfusion.com/xamarin-ui-controls/xamarin-scheduler?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples), [Diagram](https://www.syncfusion.com/xamarin-ui-controls/xamarin-diagram?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples), and [Maps](https://www.syncfusion.com/xamarin-ui-controls/xamarin-maps?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples).
 
-## About Syncfusion
-Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 23,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+## About Syncfusion&reg;
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion&reg; has more than 23,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
  
 Today, we provide 1600+ controls and frameworks for web
 ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=xamarin-pdf-viewer-github-samples),
