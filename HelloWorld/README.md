@@ -1,3 +1,3 @@
-# Syncfusion Xamarin.Forms PDF Viewer Hello World Example
+# Syncfusion&reg; Xamarin.Forms PDF Viewer Hello World Example
 
-This is an example for using [Syncfusion Xamarin.Forms PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/pdf-viewer?utm_medium=listing&utm_source=github_syncfusionexample&utm_campaign=xamarin-pdfviewer-github_syncfusionexample) in a Xamarin.Forms application to display a PDF file. This example loads an embedded PDF document as stream into the PDF Viewer. 
+This is an example for using [Syncfusion&reg; Xamarin.Forms PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/pdf-viewer?utm_medium=listing&utm_source=github_syncfusionexample&utm_campaign=xamarin-pdfviewer-github_syncfusionexample) in a Xamarin.Forms application to display a PDF file. This example loads an embedded PDF document as stream into the PDF Viewer. 
